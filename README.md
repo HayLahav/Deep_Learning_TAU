@@ -49,7 +49,7 @@ The task involves implementing a portion of the paper "Improved Training of Wass
 
 Here are the key points for the task:
 
-Paper Review: The paper "Improved Training of Wasserstein GANs" by Gulrajani et al. to understand the architecture and training techniques thoroughly.
+Paper Review: The paper "Improved Training of Wasserstein GANs" by Gulrajani et al.
 
 Implementation:  The architecture WAS designed for CIFAR10, with modifications as needed for MNIST. Ensure that the model is adapted to work with Fashion MNIST.
 
