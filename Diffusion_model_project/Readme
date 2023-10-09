@@ -14,7 +14,7 @@ This project addresses the challenge of utilizing diffusion models to navigate t
 There are no existing implementations for our exact project, which involves fitting a meta-surface pattern based on their corresponding light-scattering behaviors using diffusion models. We had to develop a custom solution for this specific classification problem. Our search of relevant papers revealed that diffusion models are commonly used for segmentation and text-to-image generation tasks, such as the Stable Diffusion model. However, we did not find any diffusion model papers or projects that use light properties and patterns for image-to-image fitting tasks.
 
 # Data
-The data used in this project consists of light scattering from silicon surfaces. The material under study is silicone, and the wavelength used is 1550nm. The dataset, provided by Prof. Scheuer's nano photonics lab at Tel Aviv University, contains twenty-five thousand samples. Each sample includes the following data:
+The data used in this project consists of light scattering from silicon surfaces. The material under study is silicone, and the wavelength used is 1550nm. The dataset, provided by Prof. Scheuer's nanophotonics lab at Tel Aviv University, contains twenty-five thousand samples. Each sample includes the following data:
 
 xx_data: The material template is represented as a binary vector with a size of 100, arranged in a 10 x 10 matrix.
 h: The height of the template, which varies for each sample.
