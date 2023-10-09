@@ -2,7 +2,7 @@ Authors: Hay Lahav (haylahav1@gmail.com) and Nadav Marciano (nadavmarci@gmail.co
 
 Date: October 2, 2023
 
-#Abstract
+# Abstract
 In this project, we address the problem of creating a deep-learning generative diffusion model capable of discerning and generating optimal meta-surface configurations based on observed light-scattering behaviors. The training of our model relies on a dataset that encompasses meta-surface samples and their corresponding light-scattering behaviors. Our approach involves using a class-conditioned diffusion model based on 2D UNet architecture from Hugging Face, which we adjust according to our data. In addition, we had to modify and enhance the model architecture to optimize its performance. Using a dataset of 25,000 meta-surface patterns and their corresponding light-scattering data, we successfully trained our model to predict the meta-surface configuration that corresponds to a given matrix of light properties.
 
 
