@@ -9,6 +9,9 @@ Weight Decay (L2 Loss): Weight decay, also known as L2 regularization, is employ
 
 Batch Normalization: Batch normalization is introduced to normalize the activations within each layer, which can accelerate training and improve the network's generalization.
 
+![image](https://github.com/HayLahav/Deep_Learning_TAU/assets/111200362/b52e3004-3f3a-4c64-891a-7c4f620955cc)
+
+
 # HW2: Recurrent NeuralNetwork Regularization
 The task involves conducting experiments on the Penn Tree Bank dataset, which is used for predicting the next word in a sequence. Instead of measuring performance with accuracy, the metric used is perplexity, which is similar to cross-entropy loss in classification-based neural networks.
 
