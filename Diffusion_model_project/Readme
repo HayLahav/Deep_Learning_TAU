@@ -29,7 +29,7 @@ Diffusion models are a type of latent variable model, parametrized as p_θ(y₀)
 
 # Experiments
 ##  Validation of Problem-Solving Approaches
-In our experiments, we explored different approaches and inputs to solve the problem of fitting a light matrix to its corresponding meta-surface pattern. After thorough evaluation, we selected the best approach based on accuracy and loss. We also conducted experiments with different batch sizes and loss functions to optimize the model's performance.
+In our experiments, we explored different approaches and inputs to solve the problem of fitting a light matrix to its corresponding meta-surface pattern. After a thorough evaluation, we selected the best approach based on accuracy and loss. We also conducted experiments with different batch sizes and loss functions to optimize the model's performance.
 
 ##  Results Visualization
 We used various visual aids, including graphs, tables, and visualizations, to illustrate our experimental findings. We analyzed the model's performance with different batch sizes, loss functions, and learning rates. We observed that certain configurations yielded better results, and we presented our conclusions.
