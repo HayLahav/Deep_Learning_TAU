@@ -4,8 +4,7 @@ The training of our model relies on a dataset that encompasses meta-surface samp
 Our approach involves using a conditioned diffusion model based on a 2D UNet architecture from Hugging Face, which we adjust according to our data.
 In addition, we had to modify and enhance the model architecture to optimize its performance. Using a dataset of 25,000 meta-surface patterns and their corresponding light-scattering data, we trained our model to predict the meta-surface pattern configuration that corresponds to a given matrix of light properties.
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/6098d97c-bb16-45e3-89b9-e64ad35905ed)
 
 # Introduction
 This project addresses the challenge of utilizing diffusion models to navigate the complex landscape of meta-surface design.
